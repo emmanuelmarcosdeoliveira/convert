@@ -73,15 +73,14 @@ Requisitos necessários para rodar o projeto:<br>
 
 ### Prerequisites
 
-`Bun.js` `VSCode` `Git` `Vite.Js`
+`Nodejs` `VSCode` `Git`
 
 > [!IMPORTANT]
 >
-> - Run Time [bun.js](https://bun.sh/) com a versão 1.1 ou superior\_.<br>
+> - Nodejs RunTime [nodeJs](https://nodejs.org/pt) com a versão 1.1 ou superior\_.<br>
 > - Um editor de códigos onde eu recomendo o [VCode](https://code.visualstudio.com/)<br>
 > - E o [git](https://git-scm.com/downloads) uma aplicação de versionamento de código.
-
-<!-- > - Extensão do VSCode [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -->
+> - Extensão do VSCode [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### technologies and tools
 
@@ -105,6 +104,8 @@ git clone https://convert-ofs.vercel.app/
 ```
 
 ## Usage
+
+Dentro do VsCode com o projeto aberto selecione o arquivo `index.html`<br> com o botão direito do mouse e selecione abrir com o `live Server` o projeto sera aberto no navegador.
 
 <br>
  <!-- Imagem de Demostração -->
